@@ -62,7 +62,7 @@ const Prevention = () => {
           />
           <CardPrevention
             image={Eyes}
-            title={"Avoid Contect with Sick People"}
+            title={"Avoid Contact with Sick People"}
             caption={
               "Maintain a Safe distance from anyone who is coughing or sneezing."
             }

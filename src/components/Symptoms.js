@@ -44,7 +44,7 @@ const Prevention = () => {
         <Grid container spacing={7} justify="space-evenly">
           <Grid item lg={12}>
             <Typography className={classes.heading} variant="h4">
-              Sysmptoms
+              Symptoms
             </Typography>
           </Grid>
           <CardSymptoms image={Fever} title={"Fever"} />
