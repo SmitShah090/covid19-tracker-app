@@ -34,6 +34,11 @@
 
 !V. React-router
 
-![covid19-tracker](https://i.postimg.cc/k41jkryF/covid-app-1.jpg)
-![covid19-tracker](https://i.postimg.cc/DyVDFhTB/covid-app-3.jpg)
+<img src="https://i.postimg.cc/k41jkryF/covid-app-1.jpg" width="160">
 
+<img src="https://i.postimg.cc/k41jkryF/covid-app-1.jpg" width="160">
+
+<!-- ![covid19-tracker](https://i.postimg.cc/k41jkryF/covid-app-1.jpg)
+
+![covid19-tracker](https://i.postimg.cc/DyVDFhTB/covid-app-3.jpg)
+ -->
