@@ -1,5 +1,5 @@
 # Covid-19 Tracker
-
+ ---
 ## Contents of website : 
 
 
@@ -34,4 +34,6 @@
 
 !V. React-router
 
+![covid19-tracker](https://i.postimg.cc/k41jkryF/covid-app-1.jpg)
+![covid19-tracker](https://i.postimg.cc/DyVDFhTB/covid-app-3.jpg)
 
